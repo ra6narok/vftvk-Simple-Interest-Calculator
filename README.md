@@ -1,10 +1,10 @@
-## Final Project
-# IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
+# Final Project
+## IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
 🔗 Online webpage: https://ibmcourseexamplewebpage.uc.r.appspot.com
 
 This app titled Simple Interest Calculator, will compute the interest one can earn given the amount you wish to save, the number of years you can keep it invested and the interest rate the bank would pay you.
 
-# Learning Objectives
+## Learning Objectives
 *Explain the roles of Front-end, back-end, and full stack developers in developing Cloud Applications.
 *Describe the common languages, libraries, frameworks, and other tools that developers use.
 *Demonstrate basic programming techniques in HTML5.
